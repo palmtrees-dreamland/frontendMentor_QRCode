@@ -1,0 +1,41 @@
+* {
+  font-family: 'Courier New', Courier, monospace ;
+}
+
+
+.container {
+  
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: bisque;
+  border-radius: 5px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 10px;
+  
+
+
+}
+
+p,
+h1 {
+
+  color: cornflowerblue;
+}
+
+img {
+  width: 300px;
+}
+
+
+.attribution { font-size: 11px; text-align: center; }
+
+.attribution a { color: magenta; }
+
+footer {
+
+  margin: 20px 0;
+}
